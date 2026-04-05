@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "スローモーション",
+  "base_artist": "風野灯織 (CV.近藤玲奈)",
+  "createdAt": "2026-04-05T10:12:06.623640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "その一秒 スローモーション",
+      "artist": "supercell feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_その一秒_スローモーション_supercell_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "その一秒 スローモーション",
+      "artist": "ryo feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/02_その一秒_スローモーション_ryo_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "その一秒 スローモーション",
+      "artist": "ryo",
+      "has_synced": false,
+      "path": "select/03_その一秒_スローモーション_ryo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "その一秒 スローモーション",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/04_その一秒_スローモーション_supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sono Ichibyō Slow Motion [その一秒 スローモーション]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/05_Sono_Ichibyō_Slow_Motion_[その一秒_スローモーション]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "白雪みぞれ（釘宮理恵）",
+      "has_synced": false,
+      "path": "select/06_スローモーション_白雪みぞれ(釘宮理恵).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "白雪みぞれ (釘宮理恵)",
+      "has_synced": false,
+      "path": "select/07_スローモーション_白雪みぞれ_(釘宮理恵).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/08_スローモーション_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "Takao Kisugi",
+      "has_synced": false,
+      "path": "select/09_スローモーション_Takao_Kisugi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/10_スローモーション_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/11_スローモーション_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/12_スローモーション_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スローモーション",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/13_スローモーション_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スローモーション",
+      "artist": "風野灯織(近藤玲奈)",
+      "has_synced": false,
+      "path": "select/pl_01_スローモーション_風野灯織(近藤玲奈).txt"
+    }
+  ]
+}
